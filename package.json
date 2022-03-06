@@ -1,0 +1,26 @@
+{
+  "name": "shoppingmall",
+  "version": "1.0.0",
+  "description": "프로그래머스 Frontend Dev Matching - 커피 주문 페이지",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunjinee/shoppingmall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyunjinee/shoppingmall/issues"
+  },
+  "homepage": "https://github.com/hyunjinee/shoppingmall#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11",
+    "eslint": "^8.10.0",
+    "serve": "^13.0.2"
+  }
+}
