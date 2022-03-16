@@ -1,3 +1,3 @@
-class App {}
+import App from './src/App.js';
 
-export default App
+new App({ $target: document.querySelector('.App') });

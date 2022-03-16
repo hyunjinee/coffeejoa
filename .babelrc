@@ -4,5 +4,6 @@
       "@babel/preset-env",
       { "targets": { "browsers": ["last 2 versions", ">= 5% in KR"] } }
     ]
-  ]
+  ],
+  "plugins": [["@babel/transform-runtime"]]
 }
