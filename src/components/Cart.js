@@ -21,7 +21,6 @@ export default function Cart({ $target, initialState }) {
     );
   };
   this.render = () => {
-    console.log(this.state);
     $component.innerHTML = `
       <ul>
         ${this.state
